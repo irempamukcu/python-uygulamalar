@@ -1,6 +1,6 @@
 print("""
 ************************
-Faktörüyel Bulma Programı
+Faktöriyel Bulma Programı
 
 Çıkmak İçin X'e Basınız.
 
