@@ -1,1 +1,1 @@
-# projeler
+# python uygulamaları
